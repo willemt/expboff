@@ -1,0 +1,12 @@
+{
+  "name": "expboff",
+  "version": "0.0.1",
+  "repo": "willemt/expboff",
+  "description": "Exponential backoff",
+  "keywords": [ "backoff" ],
+  "license": "public domain",
+  "src": [
+    "expboff.c",
+    "expboff.h"
+  ]
+}
